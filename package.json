@@ -1,0 +1,20 @@
+{
+  "name": "dogify-vanilla-js",
+  "version": "1.0.0",
+  "description": "Displaying random dog images using a rest api for dogs",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "daniel gakeri",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^20.7.0",
+    "parcel": "^2.9.3",
+    "sass": "^1.69.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.3"
+  }
+}

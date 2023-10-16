@@ -1,0 +1,34 @@
+.hero-section {
+  box-sizing: border-box;
+  margin: 0 48px;
+}
+
+.title {
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.name {
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.btn {
+  color: #000;
+  width: 100px;
+  height: 30px;
+}
+
+.image {
+  background-position: contain;
+  object-fit: contain;
+  background-size: contain;
+  border-radius: 10px;
+  width: 100%;
+  height: 100vh;
+  margin: 0 auto;
+  display: flex;
+}
+
+/*# sourceMappingURL=index.f7626f62.css.map */
